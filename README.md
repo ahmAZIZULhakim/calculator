@@ -1,3 +1,1 @@
-# test
-
-https://ahmazizulhakim.github.io/test/calculator/calculator.html
+https://ahmazizulhakim.github.io/calculator/calculator/calculator.html
